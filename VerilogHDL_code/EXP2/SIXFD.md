@@ -1,4 +1,4 @@
-```
+```verilog
 module SIXFD(clk,clk6d);
    input clk;
 	output clk6d;
