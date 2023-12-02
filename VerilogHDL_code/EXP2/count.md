@@ -1,4 +1,4 @@
-```
+```verilog
 module count(CLK6D,cose);
    input CLK6D;
 	output [2:0] cose;
