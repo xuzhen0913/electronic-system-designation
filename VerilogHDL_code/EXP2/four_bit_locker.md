@@ -1,4 +1,4 @@
-```
+```verilog
 module four_bit_locker(D,EN,CS,Q);
    input EN,CS;
 	input [3:0]D;
