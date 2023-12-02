@@ -10,5 +10,5 @@ module COUNTER16(CLK,RST,DOUT);
 		if(!RST)d<=4'b0000;
 		else d <= d+1;
 		end
-endmodule
+endmodule  
 ```
