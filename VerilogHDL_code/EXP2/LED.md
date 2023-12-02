@@ -1,6 +1,7 @@
-```
+```Verilog
 module LED(EN,ORIGINAL_DATA,CHIPS,CLK,a,b,c,d,e,f,g,LED_S0,LED_S1,LED_S2,LED_S3,LED_S4,LED_S5,LED_S6,LED_S7);
-   input EN,CLK;
+
+        input EN,CLK;
 	input [2:0] CHIPS;
 	input [3:0] ORIGINAL_DATA;
 	output a,b,c,d,e,f,g,LED_S0,LED_S1,LED_S2,LED_S3,LED_S4,LED_S5,LED_S6,LED_S7;
