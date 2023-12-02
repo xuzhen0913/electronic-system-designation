@@ -1,5 +1,6 @@
-```
-module seq(sel,RESET,CLK,detector_out);//顶层实体
+```Verilog
+module seq(sel,RESET,CLK,detector_out);
+
         input RESET,CLK,sel;
 	output detector_out;
 	wire SEQ_EX,SEQ_IN,DATA_DET,CLK6D;
