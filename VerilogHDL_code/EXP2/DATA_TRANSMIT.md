@@ -1,4 +1,4 @@
-```
+```verilog
 module DATA_TRANSMIT(EN,ORIGINAL_DATA,CHIPS,data0,data1,data2,data3,data4,data5,data6,data7);
    input EN;
 	input [3:0]ORIGINAL_DATA;
