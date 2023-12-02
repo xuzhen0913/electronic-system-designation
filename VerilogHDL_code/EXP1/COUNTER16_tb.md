@@ -1,4 +1,4 @@
-```
+```Verilog
 `timescale 10ns/1ns
 module COUNTER16_tb();
    reg CLK,RST;
