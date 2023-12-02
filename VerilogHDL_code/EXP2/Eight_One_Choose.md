@@ -1,4 +1,4 @@
-```
+```verilog
 module Eight_One_Choose(d0,d1,d2,d3,d4,d5,d6,d7,cose,medium_data);
    input [3:0] d0,d1,d2,d3,d4,d5,d6,d7;
 	input [2:0] cose;
