@@ -1,4 +1,4 @@
-```
+```verilog
 module Three_Eight_Decode(cose,LED_S0,LED_S1,LED_S2,LED_S3,LED_S4,LED_S5,LED_S6,LED_S7);
    input [2:0]cose;
 	output LED_S0,LED_S1,LED_S2,LED_S3,LED_S4,LED_S5,LED_S6,LED_S7;
