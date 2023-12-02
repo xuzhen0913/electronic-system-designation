@@ -1,3 +1,4 @@
+```verilog
     `timescale 10ns/1ns  
     module DATA_TRANSMIT_tb();  
     reg EN_tb;
@@ -31,3 +32,4 @@
 	Eight_One_Choose U1(data0_tb,data1_tb,data2_tb,data3_tb,data4_tb,data5_tb,data6_tb,data7_tb,cose_tb,medium_data_tb);
 	
 	endmodule
+```
